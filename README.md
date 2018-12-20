@@ -6,7 +6,7 @@ create realtime chat with laravel for backend, vue for frontend and pusher for c
 - run composer install
 - run npm install
 - copy .env.example to .env
-- in .env setting databes and pusher
+- in .env setting database and pusher
 - run php artisan serve
 - run npm watch
 - finaly
